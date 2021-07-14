@@ -1,7 +1,4 @@
 {
 
-    messageKey: "orderCancelConfirms",
-
-    messageText: "{\r\n  \"clientId\" : \"LDC\",\r\n  \"orderId\" : \"0000000002\",\r\n  \"orderLinesCancelConfirm\" : {\r\n    \"orderLineCancelConfirm\" : [ {\r\n      \"cancelStatus\" : \"CANCELLED\",\r\n      \"orderLineId\" : \"0001\"\r\n    } ]\r\n  }\r\n}"
-
+    "messageKey": "orderCancelConfirms"
 }
