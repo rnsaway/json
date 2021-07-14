@@ -1,0 +1,17 @@
+{
+
+    "originalResponseGeneratedOn": 1625667064998,
+
+    "isOriginalResponse": true,
+
+    "processTimeInMS": 20335,
+
+    "totalTimeInMS": 20377,
+
+    "messageKey": "orderCancelConfirm",
+
+    "messageText": "{\r\n  \"clientId\" : \"LDC\",\r\n  \"orderId\" : \"0000000002\",\r\n  \"orderLinesCancelConfirm\" : {\r\n    \"orderLineCancelConfirm\" : [ {\r\n      \"cancelStatus\" : \"CANCELLED\",\r\n      \"orderLineId\" : \"0001\"\r\n    } ]\r\n  }\r\n}",
+
+    "token": null
+
+}
